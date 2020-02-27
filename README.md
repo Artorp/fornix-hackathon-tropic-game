@@ -1,4 +1,8 @@
-# fornix-hackathon-tropico-game
+# fornix-hackathon-tropic-game
+
+A first person Unity game created at a hackathon hosted by Fornix and DRIV NTNU
+
+![image](Screenshots/Screenshot.png)
 
 ## Development setup
 
